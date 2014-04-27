@@ -1,0 +1,7 @@
+{
+  "name": "bad-element",
+  "version": "0.0.0",
+  "dependencies": {
+    "polymer": "Polymer/polymer#master"
+  }
+}
