@@ -39,6 +39,6 @@ To fix this issue you should always assume the directory that contains Polymer (
 </polymer-element>
 ```
 
-Wanna know how to develop so you can test locally and still produce shareable elements?
+Want to know how to develop so you can test locally and still produce shareable elements?
 
 ### [Follow our guide to creating reusable Polymer elements!](http://www.polymer-project.org/docs/start/reusableelements.html)
