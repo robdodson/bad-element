@@ -24,7 +24,7 @@ bower_components/
 index.html
 ```
 
-Because `bad-element` is attempting to import `bower_components/polymer/polymer.html` but it reside inside of the user's bower_components directory, it will 404.
+Because `bad-element` is attempting to import `bower_components/polymer/polymer.html` but it reside inside of the user's `bower_components` directory, it will 404.
 
 ## Solution
 
@@ -39,4 +39,6 @@ To fix this issue you should always assume the directory that contains Polymer (
 </polymer-element>
 ```
 
-## [Follow our guide to creating reusable Polymer elements](http://www.polymer-project.org/docs/start/reusableelements.html)
+Wanna know how to develop so you can test locally and still produce shareable elements?
+
+### [Follow our guide to creating reusable Polymer elements!](http://www.polymer-project.org/docs/start/reusableelements.html)
